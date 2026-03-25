@@ -7,12 +7,12 @@ transformers
 python-dotenv
 click
 PyYAML
-qiskit==0.43.1
+qiskit
 toml
 pyparsing
 fastcov
-matplotlib
-coverage==7.2.7
-pandas==2.0.3
+matplotlibc
+coverage
+pandas
 ollama
 requests
